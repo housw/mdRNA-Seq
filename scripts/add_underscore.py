@@ -25,7 +25,7 @@ def main():
     parser.add_argument("-r", "--reverse", action="store_true", default=False, help="reverse operation, replace all underscores by spaces")
     args = parser.parse_args()
 
-    #
+    # replace spaces by underscores or vice versa
     if os.path.isdir(args.input):
         for f in os.listdir(args.input):
             if f.endswith(".fasta") or f.endswith(".fna") or f.endswith(".fa"):
