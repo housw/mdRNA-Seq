@@ -1,5 +1,23 @@
 #!/usr/bin/python
 
+
+# <add_underscore.py, replace spaces in fasta header by underscores>
+# Copyright (C) <2016>  <Shengwei Hou> <housw2010@gmail.com>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
 import sys
 import os
 import fileinput
@@ -19,10 +37,9 @@ def replaceAll(path2file, old, new):
     # with inplace=1, assign input file to stdout
     for line in fileinput.input(path2file, inplace=1):
         if old in line:
-            line = line.replace(old,new)
+            if line.startswith(">"):
+                line = line.replace(old, new)
         sys.stdout.write(line)
-
-
 
 
 def main():
@@ -30,7 +47,8 @@ def main():
     # parse arguments
     parser = argparse.ArgumentParser(description="replace spaces in fasta header by underscores")
     parser.add_argument("input", help="input fasta file or folder contains fasta files")
-    parser.add_argument("-r", "--reverse", action="store_true", default=False, help="reverse operation, replace all underscores by spaces")
+    parser.add_argument("-r", "--reverse", action="store_true", default=False, help="reverse operation, "
+                                                                                    "replace all underscores by spaces")
     args = parser.parse_args()
 
     # replace spaces by underscores or vice versa
@@ -46,7 +64,6 @@ def main():
             replaceAll(args.input, "_", " ")
         else:
             replaceAll(args.input, " ", "_")
-
 
 
 if __name__ == "__main__":
