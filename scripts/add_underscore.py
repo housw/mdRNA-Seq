@@ -5,8 +5,16 @@ import os
 import fileinput
 import argparse
 
-def replaceAll(path2file,old,new):
-    """ replace 'old' with 'new' in path2file inplace
+
+def replaceAll(path2file, old, new):
+    """
+    :param path2file: file to be operate on
+    :param old:       string to be replaced
+    :param new:       string to replace
+    :return:          None
+
+    replace 'old' with 'new' in path2file inplace
+
     """
     # with inplace=1, assign input file to stdout
     for line in fileinput.input(path2file, inplace=1):
