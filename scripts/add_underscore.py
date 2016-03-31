@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 
 # <add_underscore.py, replace spaces in fasta header by underscores>
