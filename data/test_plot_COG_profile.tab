@@ -1,0 +1,126 @@
+Func_Cat	Func_Anno	Func_Letter	dRNA_sum	rdm_sum	org
+METABOLISM	Energy production and conversion	C	20.63	18.49	CC9605
+METABOLISM	Carbohydrate transport and metabolism	G	6.17	10.80	CC9605
+METABOLISM	Amino acid transport and metabolism	E	4.51	5.13	CC9605
+METABOLISM	Nucleotide transport and metabolism	F	1.36	1.13	CC9605
+METABOLISM	Coenzyme transport and metabolism	H	5.73	4.65	CC9605
+METABOLISM	Lipid transport and metabolism	I	1.69	1.73	CC9605
+METABOLISM	Inorganic ion transport and metabolism	P	3.73	5.68	CC9605
+METABOLISM	Secondary metabolites biosynthesis, transport and catabolism	Q	0.83	1.24	CC9605
+CELLULAR PROCESSES AND SIGNALING	Cell cycle control, cell division, chromosome partitioning	D	0.81	0.62	CC9605
+CELLULAR PROCESSES AND SIGNALING	Nuclear structure	Y	0.00	0.00	CC9605
+CELLULAR PROCESSES AND SIGNALING	Defense mechanisms	V	0.53	0.44	CC9605
+CELLULAR PROCESSES AND SIGNALING	Signal transduction mechanisms	T	1.61	1.44	CC9605
+CELLULAR PROCESSES AND SIGNALING	Cell wall/membrane/envelope biogenesis	M	4.16	3.28	CC9605
+CELLULAR PROCESSES AND SIGNALING	Cell motility	N	0.13	0.16	CC9605
+CELLULAR PROCESSES AND SIGNALING	Cytoskeleton	Z	0.00	0.00	CC9605
+CELLULAR PROCESSES AND SIGNALING	Extracellular structures	W	0.00	0.00	CC9605
+CELLULAR PROCESSES AND SIGNALING	Intracellular trafficking, secretion, and vesicular transport	U	1.12	1.77	CC9605
+CELLULAR PROCESSES AND SIGNALING	Posttranslational modification, protein turnover, chaperones	O	8.60	9.04	CC9605
+INFORMATION STORAGE AND PROCESSING	Translation, ribosomal structure and biogenesis	J	22.37	20.13	CC9605
+INFORMATION STORAGE AND PROCESSING	RNA processing and modification	A	0.00	0.00	CC9605
+INFORMATION STORAGE AND PROCESSING	Transcription	K	3.33	3.36	CC9605
+INFORMATION STORAGE AND PROCESSING	Replication, recombination and repair	L	2.99	2.27	CC9605
+INFORMATION STORAGE AND PROCESSING	Chromatin structure and dynamics	B	0.02	0.01	CC9605
+POORLY CHARACTERIZED	General function prediction only	R	6.13	4.29	CC9605
+POORLY CHARACTERIZED	Function unknown	S	3.56	4.34	CC9605
+METABOLISM	Energy production and conversion	C	17.72	15.38	HTCC7211
+METABOLISM	Carbohydrate transport and metabolism	G	1.29	1.43	HTCC7211
+METABOLISM	Amino acid transport and metabolism	E	20.32	16.70	HTCC7211
+METABOLISM	Nucleotide transport and metabolism	F	2.40	1.81	HTCC7211
+METABOLISM	Coenzyme transport and metabolism	H	2.88	2.90	HTCC7211
+METABOLISM	Lipid transport and metabolism	I	1.92	1.52	HTCC7211
+METABOLISM	Inorganic ion transport and metabolism	P	6.14	7.33	HTCC7211
+METABOLISM	Secondary metabolites biosynthesis, transport and catabolism	Q	2.03	2.04	HTCC7211
+CELLULAR PROCESSES AND SIGNALING	Cell cycle control, cell division, chromosome partitioning	D	1.25	0.82	HTCC7211
+CELLULAR PROCESSES AND SIGNALING	Nuclear structure	Y	0.00	0.00	HTCC7211
+CELLULAR PROCESSES AND SIGNALING	Defense mechanisms	V	0.13	0.07	HTCC7211
+CELLULAR PROCESSES AND SIGNALING	Signal transduction mechanisms	T	1.78	2.45	HTCC7211
+CELLULAR PROCESSES AND SIGNALING	Cell wall/membrane/envelope biogenesis	M	2.54	2.12	HTCC7211
+CELLULAR PROCESSES AND SIGNALING	Cell motility	N	0.16	0.08	HTCC7211
+CELLULAR PROCESSES AND SIGNALING	Cytoskeleton	Z	0.00	0.00	HTCC7211
+CELLULAR PROCESSES AND SIGNALING	Extracellular structures	W	0.00	0.00	HTCC7211
+CELLULAR PROCESSES AND SIGNALING	Intracellular trafficking, secretion, and vesicular transport	U	0.99	0.63	HTCC7211
+CELLULAR PROCESSES AND SIGNALING	Posttranslational modification, protein turnover, chaperones	O	12.86	14.72	HTCC7211
+INFORMATION STORAGE AND PROCESSING	Translation, ribosomal structure and biogenesis	J	9.31	11.39	HTCC7211
+INFORMATION STORAGE AND PROCESSING	RNA processing and modification	A	0.00	0.00	HTCC7211
+INFORMATION STORAGE AND PROCESSING	Transcription	K	3.85	3.76	HTCC7211
+INFORMATION STORAGE AND PROCESSING	Replication, recombination and repair	L	2.17	1.38	HTCC7211
+INFORMATION STORAGE AND PROCESSING	Chromatin structure and dynamics	B	0.01	0.01	HTCC7211
+POORLY CHARACTERIZED	General function prediction only	R	7.57	10.96	HTCC7211
+POORLY CHARACTERIZED	Function unknown	S	2.68	2.51	HTCC7211
+METABOLISM	Energy production and conversion	C	11.34	12.57	RCC299
+METABOLISM	Carbohydrate transport and metabolism	G	3.02	7.55	RCC299
+METABOLISM	Amino acid transport and metabolism	E	1.80	4.33	RCC299
+METABOLISM	Nucleotide transport and metabolism	F	0.67	0.76	RCC299
+METABOLISM	Coenzyme transport and metabolism	H	1.49	2.30	RCC299
+METABOLISM	Lipid transport and metabolism	I	0.93	2.67	RCC299
+METABOLISM	Inorganic ion transport and metabolism	P	1.05	3.12	RCC299
+METABOLISM	Secondary metabolites biosynthesis, transport and catabolism	Q	0.45	1.11	RCC299
+CELLULAR PROCESSES AND SIGNALING	Cell cycle control, cell division, chromosome partitioning	D	1.31	1.76	RCC299
+CELLULAR PROCESSES AND SIGNALING	Nuclear structure	Y	0.22	0.18	RCC299
+CELLULAR PROCESSES AND SIGNALING	Defense mechanisms	V	0.03	0.10	RCC299
+CELLULAR PROCESSES AND SIGNALING	Signal transduction mechanisms	T	2.70	6.05	RCC299
+CELLULAR PROCESSES AND SIGNALING	Cell wall/membrane/envelope biogenesis	M	0.56	1.09	RCC299
+CELLULAR PROCESSES AND SIGNALING	Cell motility	N	0.05	0.05	RCC299
+CELLULAR PROCESSES AND SIGNALING	Cytoskeleton	Z	2.40	8.66	RCC299
+CELLULAR PROCESSES AND SIGNALING	Extracellular structures	W	0.42	0.44	RCC299
+CELLULAR PROCESSES AND SIGNALING	Intracellular trafficking, secretion, and vesicular transport	U	1.67	3.42	RCC299
+CELLULAR PROCESSES AND SIGNALING	Posttranslational modification, protein turnover, chaperones	O	7.66	9.00	RCC299
+INFORMATION STORAGE AND PROCESSING	Translation, ribosomal structure and biogenesis	J	28.32	10.17	RCC299
+INFORMATION STORAGE AND PROCESSING	RNA processing and modification	A	12.36	3.94	RCC299
+INFORMATION STORAGE AND PROCESSING	Transcription	K	2.73	4.55	RCC299
+INFORMATION STORAGE AND PROCESSING	Replication, recombination and repair	L	1.29	2.94	RCC299
+INFORMATION STORAGE AND PROCESSING	Chromatin structure and dynamics	B	4.12	4.16	RCC299
+POORLY CHARACTERIZED	General function prediction only	R	11.37	6.24	RCC299
+POORLY CHARACTERIZED	Function unknown	S	2.07	2.82	RCC299
+METABOLISM	Energy production and conversion	C	10.43	15.93	Eury_149
+METABOLISM	Carbohydrate transport and metabolism	G	1.02	0.67	Eury_149
+METABOLISM	Amino acid transport and metabolism	E	5.01	7.44	Eury_149
+METABOLISM	Nucleotide transport and metabolism	F	1.88	1.87	Eury_149
+METABOLISM	Coenzyme transport and metabolism	H	2.63	2.38	Eury_149
+METABOLISM	Lipid transport and metabolism	I	3.32	3.43	Eury_149
+METABOLISM	Inorganic ion transport and metabolism	P	3.60	4.68	Eury_149
+METABOLISM	Secondary metabolites biosynthesis, transport and catabolism	Q	0.36	0.48	Eury_149
+CELLULAR PROCESSES AND SIGNALING	Cell cycle control, cell division, chromosome partitioning	D	0.94	1.43	Eury_149
+CELLULAR PROCESSES AND SIGNALING	Nuclear structure	Y	0.00	0.00	Eury_149
+CELLULAR PROCESSES AND SIGNALING	Defense mechanisms	V	0.83	0.82	Eury_149
+CELLULAR PROCESSES AND SIGNALING	Signal transduction mechanisms	T	0.89	1.18	Eury_149
+CELLULAR PROCESSES AND SIGNALING	Cell wall/membrane/envelope biogenesis	M	1.53	1.37	Eury_149
+CELLULAR PROCESSES AND SIGNALING	Cell motility	N	0.07	0.12	Eury_149
+CELLULAR PROCESSES AND SIGNALING	Cytoskeleton	Z	0.08	0.19	Eury_149
+CELLULAR PROCESSES AND SIGNALING	Extracellular structures	W	0.00	0.00	Eury_149
+CELLULAR PROCESSES AND SIGNALING	Intracellular trafficking, secretion, and vesicular transport	U	0.84	1.12	Eury_149
+CELLULAR PROCESSES AND SIGNALING	Posttranslational modification, protein turnover, chaperones	O	9.87	9.84	Eury_149
+INFORMATION STORAGE AND PROCESSING	Translation, ribosomal structure and biogenesis	J	22.69	18.04	Eury_149
+INFORMATION STORAGE AND PROCESSING	RNA processing and modification	A	0.00	0.07	Eury_149
+INFORMATION STORAGE AND PROCESSING	Transcription	K	9.37	6.22	Eury_149
+INFORMATION STORAGE AND PROCESSING	Replication, recombination and repair	L	2.40	3.33	Eury_149
+INFORMATION STORAGE AND PROCESSING	Chromatin structure and dynamics	B	0.00	0.00	Eury_149
+POORLY CHARACTERIZED	General function prediction only	R	9.35	9.43	Eury_149
+POORLY CHARACTERIZED	Function unknown	S	12.88	9.97	Eury_149
+METABOLISM	Energy production and conversion	C	6.28	5.54	Thaum_52
+METABOLISM	Carbohydrate transport and metabolism	G	1.17	0.37	Thaum_52
+METABOLISM	Amino acid transport and metabolism	E	6.11	1.34	Thaum_52
+METABOLISM	Nucleotide transport and metabolism	F	0.51	0.48	Thaum_52
+METABOLISM	Coenzyme transport and metabolism	H	17.23	3.60	Thaum_52
+METABOLISM	Lipid transport and metabolism	I	0.61	0.25	Thaum_52
+METABOLISM	Inorganic ion transport and metabolism	P	33.44	48.09	Thaum_52
+METABOLISM	Secondary metabolites biosynthesis, transport and catabolism	Q	4.75	22.04	Thaum_52
+CELLULAR PROCESSES AND SIGNALING	Cell cycle control, cell division, chromosome partitioning	D	0.13	0.17	Thaum_52
+CELLULAR PROCESSES AND SIGNALING	Nuclear structure	Y	0.00	0.00	Thaum_52
+CELLULAR PROCESSES AND SIGNALING	Defense mechanisms	V	0.03	0.06	Thaum_52
+CELLULAR PROCESSES AND SIGNALING	Signal transduction mechanisms	T	0.10	0.10	Thaum_52
+CELLULAR PROCESSES AND SIGNALING	Cell wall/membrane/envelope biogenesis	M	1.61	0.54	Thaum_52
+CELLULAR PROCESSES AND SIGNALING	Cell motility	N	0.21	0.55	Thaum_52
+CELLULAR PROCESSES AND SIGNALING	Cytoskeleton	Z	0.00	0.00	Thaum_52
+CELLULAR PROCESSES AND SIGNALING	Extracellular structures	W	0.00	0.00	Thaum_52
+CELLULAR PROCESSES AND SIGNALING	Intracellular trafficking, secretion, and vesicular transport	U	0.01	0.01	Thaum_52
+CELLULAR PROCESSES AND SIGNALING	Posttranslational modification, protein turnover, chaperones	O	6.54	7.41	Thaum_52
+INFORMATION STORAGE AND PROCESSING	Translation, ribosomal structure and biogenesis	J	2.34	1.19	Thaum_52
+INFORMATION STORAGE AND PROCESSING	RNA processing and modification	A	0.00	0.00	Thaum_52
+INFORMATION STORAGE AND PROCESSING	Transcription	K	7.43	3.97	Thaum_52
+INFORMATION STORAGE AND PROCESSING	Replication, recombination and repair	L	3.56	2.12	Thaum_52
+INFORMATION STORAGE AND PROCESSING	Chromatin structure and dynamics	B	0.00	0.00	Thaum_52
+POORLY CHARACTERIZED	General function prediction only	R	6.88	1.37	Thaum_52
+POORLY CHARACTERIZED	Function unknown	S	1.08	0.79	Thaum_52
