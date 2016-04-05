@@ -2,7 +2,7 @@
 
 
 # <generate_sam_grp.py, do segemehl.x alignment then produce grp file.>
-# Copyright (C) <2016>  <Shengwei Hou> <housw2010@gmail.com>
+# Copyright (C) <2016>  <Shengwei Hou> <housw2010'at'gmail'dot'com>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
