@@ -152,11 +152,14 @@ def do_segemehl_align(input_fasta, input_genome, out_folder, identity=75):
     """
 
     input_basename = os.path.splitext(os.path.split(input_fasta)[-1])[0]
-
     genome_basename = os.path.splitext(os.path.split(input_genome)[-1])[0]
 
-    out_file = os.path.join(out_folder, input_basename+"_mapped_to_"+genome_basename+".sam")
-    out_notmatched = os.path.join(out_folder, input_basename+"_mapped_to_"+genome_basename+"_non_matched.txt")
+    # mkdir if out_folder not exits
+    if not os.path.exists(out_folder):
+        subprocess.check_call(["mkdir", "-p", out_folder])
+
+    out_file = os.path.join(out_folder, input_basename+"_mapped_to_"+genome_basename+"_id"+str(identity)+".sam")
+    out_notmatched = os.path.join(out_folder, input_basename+"_mapped_to_"+genome_basename+"_id"+str(identity)+"_non_matched.txt")
 
 
     try:
